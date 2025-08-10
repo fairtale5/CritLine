@@ -316,13 +316,13 @@
 		<Size>
 			<AbsDimension x="512" y="100"></AbsDimension>
 		</Size>
-		<Anchors>
-			<Anchor point="CENTER">
-				<Offset>
-					<AbsDimension x="0" y="0"></AbsDimension>
-				</Offset>
-			</Anchor>
-		</Anchors>
+    <Anchors>
+      <Anchor point="TOP">
+        <Offset>
+          <AbsDimension x="0" y="100></AbsDimension>
+        </Offset>
+      </Anchor>
+    </Anchors>
 		<FontString inherits="NumberFontNormalHuge" justifyH="CENTER"></FontString>
 	</MessageFrame>
 	
